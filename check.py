@@ -21,6 +21,5 @@ def translate(w):
 word = input("Enter a word: ")
 
 print(translate(word))
-#two definations formatting e.g tree, cool
-
+#
 
