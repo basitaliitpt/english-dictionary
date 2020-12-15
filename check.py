@@ -20,6 +20,6 @@ def translate(w):
         return "The word doesn't exist. Please double check it."
 word = input("Enter a word: ")
 
-print(translate(word,word))
+print(translate(word,word,word))
 #
 
